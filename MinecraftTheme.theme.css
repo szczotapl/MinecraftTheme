@@ -1,0 +1,21 @@
+/**
+ * @name MinecraftTheme
+ * @author RivioxGaming#0069
+ * @version 1.0.0
+ * @invite https://discord.gg/Qk2rWnqjAe
+ * @description A Minecraft theme for betterdiscord
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://i.imgur.com/VSvPwsd.jpg');
+    --home-image: url('https://i.imgur.com/233d55Y.gif');
+    --background-solid: #161920;
+    --background-solid-dark: #0b300a;
+    --background-solid-darker: #022101;
+    --accent: 8, 117, 5;
+    --accent-alt: 8, 117, 5;
+}
